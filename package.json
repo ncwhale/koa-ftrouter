@@ -1,0 +1,23 @@
+{
+  "name": "koa-ftrouter",
+  "version": "0.0.1",
+  "description": "A path based fast router middleware for koa@2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncwhale/koa-ftrouter.git"
+  },
+  "keywords": [
+    "koa",
+    "router"
+  ],
+  "author": "Kouga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ncwhale/koa-ftrouter/issues"
+  },
+  "homepage": "https://github.com/ncwhale/koa-ftrouter#readme"
+}
